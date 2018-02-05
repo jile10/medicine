@@ -33,7 +33,7 @@
 <div class="breadcrumb-holder container-fluid">
 	<ul class="breadcrumb">
 		  <li class="breadcrumb-item"><a href="/dashboard">Home</a></li>
-		  <li class="breadcrumb-item">Maintenance</li>
+		  <li class="breadcrumb-item">Transaction</li>
 		  <li class="breadcrumb-item active">Item</li>
 	</ul>
 </div>
